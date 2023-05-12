@@ -1,4 +1,5 @@
 # Smart_Garden
+
 Welcome to the Smart Garden System repository! This project aims to create an intelligent and automated system for managing and monitoring your garden. Whether you're a gardening enthusiast or a beginner, this system will help you optimize plant care and ensure a thriving garden.
 
 Features
